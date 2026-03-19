@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(ls \"c:/Users/thats/OneDrive - Smart Head Consulting Limited/Github/diana/src/app/\\(auth\\)/\")",
-      "Bash(npm install:*)",
-      "Bash(npm run:*)"
-    ]
-  }
-}
